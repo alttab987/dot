@@ -1,0 +1,7 @@
+{
+	"String": {
+		"prefix": "str",
+		"body": "[*:0]const u8",
+		"desc": "Sentinel terminated pointer of characters"
+	}
+}

@@ -1,0 +1,6 @@
+format = '''
+[┌──────> ](bold green)$directory$git_branch$guix_shell
+[└─>](bold green) '''
+
+add_newline = false
+
